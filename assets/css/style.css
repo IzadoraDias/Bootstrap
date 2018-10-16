@@ -1,0 +1,29 @@
+.navbar-primary .navbar-collapse{
+   justify-content: flex-end;
+}
+  
+.carousel-banner{
+  height: 80vh;
+}
+
+.carousel-banner img{
+  height: 80vh;
+  object-fit: cover;
+}
+
+
+.main-grid img{
+  height: 200px;
+  object-fit: cover;
+}
+
+.row-margin>div {
+  margin-bottom: 30px;
+}
+
+
+.call-to-action {
+  margin-top: 15px;
+  padding: 15px;
+
+}
